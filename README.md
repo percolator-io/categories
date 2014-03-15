@@ -16,7 +16,7 @@
 ```
 
 * id: уникальный идентификатор, должен достаточно описывать категорию, не должен изменяться,
-      содержит латинские буквы, цифры, подчеркивание
+      содержит строчные латинские буквы, цифры, подчеркивание
 * name: заголовок категории на сайте
 * query: запрос, построенный с помощью
   [simple-query-string-query](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl-simple-query-string-query.html).
