@@ -1,20 +1,20 @@
 ---
 - id: devops
-  name: DevOps
+  name: "DevOps"
   query: |
     devops
     chef puppet ansible
     "Express 42"
 
 - id: databases
-  name: Базы данных
+  name: "Базы данных"
   query: |
     postgres*
     sql
     транзакция
 
 - id: web_development
-  name: Веб-разработка
+  name: "Веб-разработка"
   query: |
     javascript* jQuery coffeescript
     ajax
@@ -32,13 +32,13 @@
     кроссбраузерный
   subcategories:
     - id: ruby_on_rails
-      name: Ruby on Rails
+      name: "Ruby on Rails"
       query: |
         rails
         activerecord active_record
 
 - id: development_tools
-  name: Инструменты
+  name: "Инструменты"
   query: |
     tool
     git
@@ -53,10 +53,10 @@
     монады
 
 - id: ruby_language
-  name: Ruby
+  name: "Ruby"
   query: |
     ruby gem
     rack unicorn
     rake
     capybara
-    solnic*"
+    solnic*
