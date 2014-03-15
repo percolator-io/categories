@@ -1,0 +1,62 @@
+---
+- id: devops
+  name: DevOps
+  query: |
+    devops
+    chef puppet ansible
+    "Express 42"
+
+- id: databases
+  name: Базы данных
+  query: |
+    postgres*
+    sql
+    транзакция
+
+- id: web_development
+  name: Веб-разработка
+  query: |
+    javascript* jQuery coffeescript
+    ajax
+    bootstrap foundation
+    backbone*
+    css*
+    less sass scss
+    adaptive responsive
+    html* haml DOM
+    frontend "front-end"
+    web
+    "image placeholder"
+    mozilla firefox chrome opera
+    codepen
+    кроссбраузерный
+  subcategories:
+    - id: ruby_on_rails
+      name: Ruby on Rails
+      query: |
+        rails
+        activerecord active_record
+
+- id: development_tools
+  name: Инструменты
+  query: |
+    tool
+    git
+    vagrant docker
+    vim
+    solarized
+
+- id: functional_programming
+  name: "Функциональное программирование"
+  query: |
+    monads
+    монады
+
+- id: ruby_language
+  name: Ruby
+  query: |
+    ruby gem
+    rack unicorn
+    rake
+    capybara
+    solnic*"
