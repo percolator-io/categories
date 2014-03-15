@@ -20,7 +20,7 @@
 * name: заголовок категории на сайте
 * query: запрос, построенный с помощью
   [simple-query-string-query](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl-simple-query-string-query.html).
-  Поиск осуществляется по `title`, `description`, `keywords`, host html страницы.
+  Поиск осуществляется по _title_, _description_, _keywords_, _host_ html страницы.
 * subcategories: содержит массив подкатегорий, необязательный параметр
 
 ## Добавление категорий
