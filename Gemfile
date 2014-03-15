@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'activesupport'
+gem 'percolator_categories', github: 'percolator-io/percolator_categories'
 gem 'rspec'

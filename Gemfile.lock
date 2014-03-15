@@ -1,17 +1,29 @@
+GIT
+  remote: git://github.com/percolator-io/percolator_categories.git
+  revision: 1cf9fdfcb12b42c3b2577afab2843d3536eec39f
+  specs:
+    percolator_categories (0.0.1)
+      activemodel (> 4.0.0)
+      activesupport (> 4.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (4.0.3)
-      i18n (~> 0.6, >= 0.6.4)
+    activemodel (4.0.4)
+      activesupport (= 4.0.4)
+      builder (~> 3.1.0)
+    activesupport (4.0.4)
+      i18n (~> 0.6, >= 0.6.9)
       minitest (~> 4.2)
       multi_json (~> 1.3)
       thread_safe (~> 0.1)
       tzinfo (~> 0.3.37)
     atomic (1.1.15)
+    builder (3.1.4)
     diff-lcs (1.2.4)
     i18n (0.6.9)
     minitest (4.7.5)
-    multi_json (1.8.4)
+    multi_json (1.9.0)
     rspec (2.13.0)
       rspec-core (~> 2.13.0)
       rspec-expectations (~> 2.13.0)
@@ -22,11 +34,11 @@ GEM
     rspec-mocks (2.13.1)
     thread_safe (0.2.0)
       atomic (>= 1.1.7, < 2)
-    tzinfo (0.3.38)
+    tzinfo (0.3.39)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport
+  percolator_categories!
   rspec

@@ -1,2 +1,2 @@
-require 'yaml'
-require 'active_support/all'
+require 'bundler/setup'
+Bundler.require
