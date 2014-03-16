@@ -30,12 +30,6 @@
     mozilla firefox chrome opera
     codepen
     кроссбраузерный
-  subcategories:
-    - id: ruby_on_rails
-      name: "Ruby on Rails"
-      query: |
-        rails
-        activerecord active_record
 
 - id: development_tools
   name: "Инструменты"
@@ -60,3 +54,9 @@
     rake
     capybara
     solnic*
+  subcategories:
+    - id: ruby_on_rails
+      name: "Ruby on Rails"
+      query: |
+        rails
+        activerecord active_record
