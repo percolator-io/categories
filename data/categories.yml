@@ -60,8 +60,3 @@
       query: |
         rails
         activerecord active_record
-        
-- id: sexual
-  name: "Sex"
-  query: |
-    sex
