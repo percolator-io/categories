@@ -49,7 +49,7 @@
 - id: ruby_language
   name: "Ruby"
   query: |
-    ruby gem
+    ruby* gem
     rack unicorn
     rake
     capybara
