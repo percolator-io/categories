@@ -3,7 +3,8 @@
   name: "DevOps"
   query: |
     devops
-    chef puppet ansible
+    chef cookbook 
+    puppet ansible
     "Express 42"
 
 - id: databases
