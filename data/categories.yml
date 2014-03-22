@@ -20,7 +20,7 @@
     javascript* jQuery coffeescript
     ajax
     bootstrap foundation
-    backbone*
+    backbone* angularjs
     css*
     less sass scss
     adaptive responsive
