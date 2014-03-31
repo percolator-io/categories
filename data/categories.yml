@@ -61,8 +61,4 @@
       query: |
         rails
         activerecord active_record
-        
-- id: 37signals
-  name: "37 Signals"
-  query: |
-    37signals
+
