@@ -43,3 +43,7 @@
 ## TODO
 
 + обавить поддержку хранения категорий в файлах и папках
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/percolator-io/categories/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
