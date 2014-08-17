@@ -3,7 +3,7 @@
   name: "DevOps"
   query: |
     devops
-    chef cookbook 
+    chef cookbook
     puppet ansible
     "Express 42"
 
@@ -61,8 +61,8 @@
       query: |
         rails
         activerecord active_record
-- id: Messaging and queues
-  name: "messaging"
+- id: messaging
+  name: "Messaging and queues"
   query: |
     "RabbitMQ"
     rabbitmq
