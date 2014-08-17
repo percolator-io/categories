@@ -61,4 +61,15 @@
       query: |
         rails
         activerecord active_record
-
+- id: Messaging and queues
+  name: "messaging"
+  query: |
+    "RabbitMQ"
+    rabbitmq
+    apache kafka
+    ZeroMQ
+    ActiveMQ
+    AMQP
+    queues
+    messaging
+    Kestrel
